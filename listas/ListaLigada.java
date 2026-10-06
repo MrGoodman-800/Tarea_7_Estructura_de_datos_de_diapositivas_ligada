@@ -34,7 +34,7 @@ public class ListaLigada {
 
         lista.eliminarElPrimero();
         lista.eliminarElPrimero();
-
+        System.out.println();
         System.out.println("El tamaño de la lista es: " + lista.getTamanio());
         System.out.println("¿La Lista de pedidos está vacía?: " + lista.EstaVacia());
         System.out.println("Ya no hay pedidos por cumplir.");
